@@ -228,6 +228,12 @@ Savitri Guardian is the first implementation of a broader vision:
 
 ---
 
+## Live URL
+
+https://savitri-health.lovable.app/login
+
+---
+
 ## Screenshots
 
 *Add screenshots to `assets/screenshots` and link them here.*
@@ -242,7 +248,7 @@ Savitri Guardian is the first implementation of a broader vision:
 
 ## Product Advertisement
 
-*Add cinematic advertisement video link.*
+https://drive.google.com/file/d/1bcS9jgN4eloC8L_RtxRNT6WfqbNcTGSD/view?usp=sharing
 
 ---
 
