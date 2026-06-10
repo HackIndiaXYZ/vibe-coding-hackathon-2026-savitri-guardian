@@ -99,23 +99,3 @@ Demonstrates family-facing visibility and communication.
 
 Purpose:
 Shows end-to-end coordination history across all stakeholders.
-
----
-
-## 14 - Architecture Diagram
-
-Purpose:
-Visual representation of the Savitri Trusted Coordination Platform.
-
----
-
-## 15 - Adoption Wedges Diagram
-
-Purpose:
-Demonstrates startup scalability and expansion opportunities beyond healthcare.
-
-Primary Wedges:
-
-* Young Professionals Away From Family
-* Dementia & Cognitive Conditions
-* Travel & Relocation Safety
