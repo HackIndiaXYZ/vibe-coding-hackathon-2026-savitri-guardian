@@ -234,6 +234,14 @@ The long-term vision is to build trusted infrastructure that helps people, famil
 
 ---
 
+## origin of the name "Savitri Guardian"
+
+The project is named after Savitri, a figure from Indian mythology known for confronting Yama, the god of death, to save her husband. The story symbolizes determination, human connection, and the belief that outcomes can change when people refuse to give up on one another.
+
+The addendum Guardian is the core function of the healthcare MVP and makes the name self-explnatory.
+
+---
+
 ## Builder
 
 Srajan Kumar
