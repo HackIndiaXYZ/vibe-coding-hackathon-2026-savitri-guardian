@@ -161,6 +161,7 @@ Humans decide.
 * WHY_SAVITRI.md
 * HACKATHON_SUBMISSION.md
 * PRODUCT_VISION.md
+* * DEMO_GUIDE.md
 
 ### Platform Principles
 
@@ -171,7 +172,6 @@ Humans decide.
 ### Technical
 
 * ARCHITECTURE.md
-* DEMO_SCRIPT.md
 
 ---
 
@@ -284,7 +284,7 @@ TRUST_AND_SAFETY.md
 IDENTITY_PRINCIPLES.md
 FAQ.md
 ARCHITECTURE.md
-DEMO_SCRIPT.md
+DEMO_GUIDE.md
 
 assets/
 src/
