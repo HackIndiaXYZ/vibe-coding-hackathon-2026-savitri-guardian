@@ -1,218 +1,217 @@
-# Savitri Guardian
+# Product Vision
 
-> **Identity. Context. Action. When Every Minute Matters.**
+## Identity. Context. Coordination. Because Every Second Matters.
 
----
+### Vision Statement
 
-## 1. Origin Story
+No emergency should begin with anonymity, uncertainty, or isolation.
 
-Every medical emergency begins with the same silence.
-
-A person collapses on a street, in a park, on a train platform. Bystanders gather. Someone calls for help. Minutes pass — sometimes critical minutes — while the same questions echo unanswered:
-
-- *Who is this person?*
-- *What are they allergic to?*
-- *Who should be called?*
-- *Which hospital should receive them?*
-
-EMTs arrive with equipment but without context. Hospitals prepare beds but receive no advance notice. Families remain unaware until hours later, if at all. And in those silent, uncertain minutes — the first minutes, the ones that determine whether someone survives, recovers, or suffers permanent damage — nothing is known. Nothing is coordinated. Nothing is certain.
-
-This is not a failure of medicine. It is a failure of information.
-
-> **The first emergency is not medical. The first emergency is informational.**
-
-Savitri Guardian was built because we believe that the most vulnerable moment in a person's life should not also be the most anonymous.
+Savitri exists to help the right people receive the right information at the right time so they can take the right action.
 
 ---
 
-## 2. Vision
+# The Problem
 
-> **No medical emergency should begin with anonymity, confusion, or delayed coordination.**
+Modern society is highly connected, yet critical life events remain poorly coordinated.
 
-We envision a world where the moment someone needs help, the people around them, the professionals responding to them, the hospitals preparing for them, and the families who love them — all have exactly what they need to act.
+When emergencies occur, information is often fragmented across people, organizations, devices, and systems.
 
-Not more. Not less. Exactly what they need.
+Families do not know what happened.
 
-Savitri connects five actors into a single, coordinated emergency workflow:
+Responders lack context.
 
-- **The Patient** carries their identity, medical context, and emergency contacts.
-- **The Bystander** can initiate help with a single scan — no app, no account, no friction.
-- **The EMT** arrives informed and documents what they see for seamless handoff.
-- **The Hospital** receives structured, real-time context before the patient arrives.
-- **The Family** follows the entire chain through a private, tokenized portal.
+Hospitals receive incomplete information.
 
-No actor is left out. No information is lost. No minute is wasted.
+Caregivers are left guessing.
 
----
+Organizations struggle to coordinate action.
 
-## 3. Mission
+The information often exists.
 
-> **To transform the first minutes of an emergency from chaos into coordinated action.**
-
-When someone becomes unconscious or incapacitated, the difference between a good outcome and a tragic one is often measured in awareness, coordination, and speed — not just clinical skill.
-
-Our mission is to ensure that:
-
-- **Earlier awareness** — Hospitals know before the ambulance arrives.
-- **Faster coordination** — EMTs are assigned, dispatched, and informed in one flow.
-- **Better outcomes** — Medical decisions are made with context, not guesswork.
-- **Family visibility** — Loved ones are informed in real time, not left in the dark.
-- **Human-centered response** — Technology assists the humans on the ground; it never replaces their judgment.
-
-We do not replace emergency services. We make them faster, better prepared, and more humane.
+The coordination does not.
 
 ---
 
-## 4. The Savitri Principle
+# The Core Insight
 
-Medical information is among the most sensitive data that exists. It is also among the most valuable in a crisis.
+The first emergency is informational.
 
-These two truths create a tension that most systems resolve poorly:
+Before treatment.
 
-- Some hide everything until it is too late.
-- Some expose everything without safeguards.
+Before transportation.
 
-Savitri resolves this tension through a simple, powerful principle:
+Before intervention.
 
-> **Medical information should not be public. Medical information should not be hidden when it can save a life.**
+There is usually a period of uncertainty where people are attempting to answer fundamental questions:
 
-We balance both through:
+* Who is this person?
+* What happened?
+* Who should be informed?
+* Who can help?
+* What action should be taken?
 
-- **Emergency declaration** — Medical data is disclosed only after a bystander explicitly declares an emergency. Until then, nothing is revealed.
-- **Identity logging** — Every person who accesses medical information is identified and recorded.
-- **Audit trails** — Every scan, every disclosure, every status change is logged immutably. If it happened, there is a record.
-- **Minimum necessary disclosure** — The bystander sees what they need to help (allergies, blood group, critical conditions). They do not see what they do not need (psychiatric history, sexual health, unrelated conditions).
-
-This is not a feature. This is the foundational philosophy of the product.
+Reducing this uncertainty improves outcomes.
 
 ---
 
-## 5. Product Principles
+# The Coordination Gap
 
-These principles guide every decision we make — from interface design to data architecture to partner negotiations.
+Most systems focus on storing information.
 
-### 5.1 Privacy Before Disclosure
+Others focus on communication.
 
-**Why it exists:** Medical data is deeply personal. Its exposure can cause discrimination, stigma, and harm. But its absence in an emergency can cause death.
+Few systems focus on coordination.
 
-**What it means:** Disclosure is gated behind explicit emergency declaration, identity verification, and audit logging. The patient retains control over what is shared and with whom.
+Savitri is designed to address the gap between:
 
-**How it influences product decisions:** QR tokens rotate and can be revoked. Tiered access means different roles see different data. Full profiles are never exposed to bystanders.
+```text
+Someone needs help
+```
 
-### 5.2 Audit Everything
+and
 
-**Why it exists:** Trust in emergency systems depends on transparency. When lives are at stake, every action must be accountable.
+```text
+The right people are actively coordinating a response
+```
 
-**What it means:** Every scan, every status change, every voice note playback, every call action is logged. The audit trail is append-only and queryable.
-
-**How it influences product decisions:** No privileged action exists without a corresponding audit row. Audit logs are queryable by patients and authorized operators. If there is no record, it did not happen.
-
-### 5.3 Human Remains in Control
-
-**Why it exists:** AI and automation can assist, but emergencies are human situations requiring human judgment.
-
-**What it means:** The EMT can override an AI summary. The hospital can dismiss a report. The patient can cancel an SOS. Every automated action has a human checkpoint.
-
-**How it influences product decisions:** AI generates summaries; humans review and edit them. Hospital dashboards always include manual override. Patient SOS includes a cancellation mechanism.
-
-### 5.4 Family Stays Informed
-
-**Why it exists:** Emergency contacts are not an afterthought. They are the people who matter most to the patient, and they deserve the same transparency as the hospital.
-
-**What it means:** Emergency contacts receive a live timeline of the incident, including voice notes, AI summaries, hospital assignments, and status updates — through a private, tokenized portal that requires no account.
-
-**How it influences product decisions:** The notification portal is as carefully designed as the hospital dashboard. Family members hear the voice note from the scene. They know which hospital accepted the case and what registration number was assigned.
-
-### 5.5 Reduce Emergency Friction
-
-**Why it exists:** Emergencies are moments of panic, not patience. Every extra step, every required download, every forced registration costs time that patients do not have.
-
-**What it means:** The bystander does not need an app. The emergency contact does not need an account. The EMT scans and assesses in under five seconds.
-
-**How it influences product decisions:** Zero-install public scanning. Tokenized family portals. One-tap SOS with no form-filling. Every interaction is designed for someone who is afraid, in a hurry, and may not be technically confident.
-
-### 5.6 Work With Any Smartphone
-
-**Why it exists:** Emergency readiness cannot depend on hardware ecosystems, operating system versions, or network quality.
-
-**What it means:** No NFC. No Bluetooth pairing. No special devices. Any phone with a camera and a browser can scan a Savitri QR code and report an emergency.
-
-**How it influences product decisions:** QR codes are universal. The platform degrades gracefully on older devices and slower networks. We do not build features that require cutting-edge hardware.
-
-### 5.7 Assist Professionals, Don't Replace Them
-
-**Why it exists:** Savitri is not an ambulance dispatch service. It is not a telemedicine platform. It does not replace 112, clinical judgment, or hospital triage.
-
-**What it means:** We give professionals the information they need to make faster, better decisions. The paramedic still treats the patient. The hospital still triages. Savitri just makes sure nobody starts blind.
-
-**How it influences product decisions:** We do not prescribe treatment. We do not diagnose. We surface context, enable communication, and document handoffs — then we get out of the way.
+The platform exists to reduce that gap.
 
 ---
 
-## 6. Who Savitri Serves
+# Our Core Domain
 
-### The Patient
-- **Identity** — A QR code that says "I am someone" even when they cannot speak.
-- **Medical context** — Allergies, conditions, medications, blood group, implants — available when needed, hidden when not.
-- **Emergency contacts** — The people who should be notified, in the order the patient chose.
+The core domain of Savitri is not healthcare.
 
-### The Public Scanner
-- **Simple reporting** — Scan a QR code, declare an emergency, and help begins.
-- **No app required** — Any smartphone camera works.
-- **Guided action** — Clear, calm instructions even in a moment of panic.
+The core domain is Trusted Coordination.
 
-### The EMT
-- **Better situational awareness** — Arrive knowing the patient's allergies, conditions, and critical history.
-- **Structured handoff** — Voice assessment, AI summary, and manual review — all submitted to the hospital before arrival.
-- **AI-assisted documentation** — Speak into the app; receive a structured clinical brief.
+Healthcare emergencies are simply the first implementation of that capability.
 
-### The Hospital
-- **Earlier visibility** — Receive possible emergency reports in real time, before the patient arrives.
-- **Better triage** — Know what is coming before the ambulance doors open.
-- **Better preparedness** — Assign EMTs, review medical history, and prepare teams in advance.
-
-### The Family
-- **Live updates** — Follow the incident timeline as it unfolds.
-- **Transparency** — Hear the voice note from the scene. Read the AI summary. Know which hospital accepted the case.
-- **Reduced uncertainty** — No more learning about an emergency hours later through a third party.
+The same underlying platform can support many situations where people become vulnerable, unreachable, unidentified, or unable to communicate.
 
 ---
 
-## 7. What Success Looks Like
+# Platform Pillars
 
-Success for Savitri Guardian is not measured in conventional product metrics.
+## Identity
 
-Success is **not**:
-
-- Number of downloads
-- Number of signups
-- Number of AI summaries generated
-- Number of QR codes printed
-
-Success **is**:
-
-- **Faster emergency awareness** — Hospitals know about an incident before the patient arrives.
-- **Faster EMT activation** — From public report to assigned paramedic in minutes, not hours.
-- **Faster hospital readiness** — Teams are informed, prepared, and expecting the patient.
-- **Better family communication** — Loved ones are connected to the incident timeline in real time.
-- **Better patient outcomes** — More context, earlier. More coordination, faster. More information, better decisions.
-
-We judge ourselves by the quality of the first ten minutes — the platinum ten — and by whether the people who matter most to the patient were never left in the dark.
+Understanding who people are, how they are connected, and who can act on their behalf.
 
 ---
 
-## 8. Long-Term Aspiration
+## Trust
 
-We aspire to a world where:
-
-- **Every person can carry emergency identity** — Not just the tech-savvy, not just the privileged, but everyone.
-- **Every bystander can initiate help** — No training required. No app to download. Just a camera, a QR code, and the instinct to help.
-- **Every hospital receives context before arrival** — No patient arrives as a stranger. No team starts blind.
-- **Every family stays connected** — The people who love the patient know what is happening, when it is happening, where it is happening.
-- **Every emergency begins with information instead of uncertainty** — The first question is never again "Who is this person?"
-
-Savitri Guardian exists to ensure that the most critical moments in life are guided by knowledge, coordination, and human care.
+Balancing privacy, accountability, consent, verification, and safety.
 
 ---
 
-*See also: [`README.md`](./README.md) for project overview, [`ROADMAP.md`](./ROADMAP.md) for product evolution, [`INCIDENT_LIFECYCLE.md`](./INCIDENT_LIFECYCLE.md) for the emergency workflow, and [`DEMO_SCRIPT.md`](./DEMO_SCRIPT.md) for the judge walkthrough.*
+## Context
+
+Transforming fragmented information into meaningful understanding.
+
+---
+
+## Coordination
+
+Helping the right stakeholders discover, inform, support, and assist one another.
+
+---
+
+## Intelligence
+
+Using AI to transform information into actionable context while preserving human responsibility.
+
+---
+
+# Current Focus
+
+Today, Savitri Guardian focuses on medical emergencies and the Golden Hour.
+
+The objective is to improve coordination between:
+
+* Individuals
+* Families
+* Public Helpers
+* EMTs
+* Hospitals
+
+during moments when time and information are equally critical.
+
+---
+
+# Adoption Strategy
+
+Savitri is adopted through vulnerability rather than demographics.
+
+The people most likely to benefit are those who face elevated risk of becoming unreachable, unidentified, or unable to communicate.
+
+### Primary Wedges
+
+* Young Professionals Away From Family
+* Dementia & Cognitive Conditions
+* Travel & Relocation Safety
+
+### Future Wedges
+
+* Aging Parents
+* Students Away From Home
+* Family Protection
+* Children & Dependents
+* Workforce Duty of Care
+* Institutional Safety
+
+---
+
+# Long-Term Vision
+
+Healthcare is the first vertical.
+
+Trusted Coordination is the platform.
+
+Future applications may include:
+
+* Child Safety
+* Elder Care
+* Dementia Support
+* Travel Safety
+* Workforce Safety
+* Missing Person Coordination
+* Disaster Response
+* Community Safety
+* Caregiver Coordination
+
+Each domain presents unique challenges.
+
+The underlying coordination problem remains remarkably similar.
+
+---
+
+# What Success Looks Like
+
+A future where:
+
+* Families are informed sooner
+* Responders arrive with better context
+* Hospitals receive better information
+* Vulnerable individuals remain discoverable
+* Organizations fulfill their duty of care more effectively
+* Critical life events are coordinated rather than improvised
+
+---
+
+# The Long-Term Goal
+
+Build trusted coordination infrastructure for critical life events.
+
+Not another healthcare application.
+
+Not another emergency application.
+
+Infrastructure that helps people, families, organizations, and communities coordinate when it matters most.
+
+---
+
+# Our Guiding Principle
+
+The purpose of Savitri is not to collect information.
+
+The purpose of Savitri is to help the right people receive the right information at the right time so they can take the right action.
