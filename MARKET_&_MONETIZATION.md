@@ -29,6 +29,42 @@ Savitri exists to reduce that gap.
 
 ---
 
+# Market Signals
+
+Several long-term trends are increasing the need for trusted coordination infrastructure.
+
+### Distributed Families
+
+Work, education, and migration increasingly separate individuals from their support networks.
+
+Millions of people now live in cities, states, or countries different from their families.
+
+---
+
+### Travel & Mobility
+
+Domestic travel, international travel, business travel, tourism, pilgrimage, and relocation continue to grow.
+
+People spend more time away from familiar environments and support systems.
+
+---
+
+### Aging Population
+
+Families are increasingly responsible for supporting aging parents from a distance.
+
+This creates new coordination challenges during emergencies and critical life events.
+
+---
+
+### Cognitive Conditions
+
+Dementia and other cognitive conditions are increasing globally.
+
+Families need better tools for discoverability, identification, representation, and coordination.
+
+---
+
 # Adoption Strategy
 
 Savitri follows a simple principle:
@@ -64,6 +100,26 @@ As coordination networks grow, the value of the platform increases for everyone 
 The objective is not simply to acquire users.
 
 The objective is to connect people who may need to coordinate during critical life events.
+
+---
+
+# Built-In Virality
+
+Every emergency contact added to Savitri becomes a potential future user.
+
+User
+↓
+Adds Emergency Contact
+↓
+Emergency Contact Joins
+↓
+Creates Own Profile
+↓
+Adds Their Own Network
+↓
+Platform Expands
+
+The platform grows through trusted relationships rather than traditional advertising.
 
 ---
 
@@ -140,11 +196,106 @@ The premium offering focuses on improving coordination rather than restricting a
 
 ---
 
+# Revenue Scenarios
+
+The following examples are illustrative and intended to demonstrate business viability rather than financial forecasts.
+
+### Family Safety Plans
+
+#### Early Stage
+
+10,000 Families
+₹999/year
+
+Potential Annual Revenue:
+
+~₹1 Crore
+
+#### Growth Stage
+
+100,000 Families
+₹999/year
+
+Potential Annual Revenue:
+
+~₹10 Crore
+
+#### Scale Stage
+
+1 Million Families
+₹999/year
+
+Potential Annual Revenue:
+
+~₹100 Crore
+
+---
+
+### Employer & University Programs
+
+500 Organizations
+₹2 Lakh/year
+
+Potential Annual Revenue:
+
+~₹10 Crore
+
+Potential Customers:
+
+* Employers
+* Universities
+* Schools
+* Assisted Living Providers
+
+---
+
+### Tourism Safety Partnerships
+
+100 Tourism Partners
+₹5 Lakh/year
+
+Potential Annual Revenue:
+
+~₹5 Crore
+
+Potential Customers:
+
+* Tourism Operators
+* Hotels
+* Pilgrimage Organizers
+* Travel Safety Programs
+* Destination Management Organizations
+
+---
+
+### Illustrative Combined Scenario
+
+A platform serving:
+
+* 100,000 Families
+* 500 Organizations
+* 100 Tourism Partners
+
+could support annual recurring revenue exceeding:
+
+## ₹25+ Crore ARR
+
+while keeping emergency assistance free for all users.
+
+---
+
 # Revenue Model
 
 Emergency assistance should never depend on a person's ability to pay.
 
-Savitri's business model focuses on coordination infrastructure rather than emergency access itself.
+Savitri monetizes coordination rather than emergency access itself.
+
+This creates alignment between:
+
+* Accessibility
+* Adoption
+* Trust
+* Sustainability
 
 ---
 
