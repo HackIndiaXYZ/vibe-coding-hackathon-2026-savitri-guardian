@@ -249,7 +249,7 @@ https://savitri-health.lovable.app/login
 
 ## Product Advertisement
 
-https://drive.google.com/file/d/1bcS9jgN4eloC8L_RtxRNT6WfqbNcTGSD/view?usp=sharing
+https://drive.google.com/file/d/1zIKTdc_tk00vGocO4NK2tULfhTHdDaZ2/view?usp=sharing
 
 ---
 
