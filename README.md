@@ -172,7 +172,7 @@ Humans decide.
 
 ### Technical
 
-* ARCHITECTURE.md
+* ARCHITECTURE.md 
 
 ---
 
@@ -237,7 +237,7 @@ https://savitri-health.lovable.app/login
 
 ## Screenshots
 
-*Add screenshots to `assets/screenshots` and link them here.*
+https://github.com/HackIndiaXYZ/vibe-coding-hackathon-2026-savitri-guardian/tree/main/Assets/Screenshots
 
 ---
 
