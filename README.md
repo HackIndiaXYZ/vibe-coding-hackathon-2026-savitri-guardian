@@ -243,7 +243,7 @@ https://savitri-health.lovable.app/login
 
 ## Demo Video
 
-*Add demo video link.*
+https://drive.google.com/file/d/1ouChowRjR5wGnFLXnHcipF_fw7-SomT0/view?usp=sharing
 
 ---
 
