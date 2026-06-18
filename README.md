@@ -158,21 +158,21 @@ Humans decide.
 
 ### Project
 
-* WHY_SAVITRI.md
-* HACKATHON_SUBMISSION.md
-* PRODUCT_VISION.md
-* DEMO_GUIDE.md
-* MARKET_&_MONETIZATION.md
+* WHY_SAVITRI.md [https://github.com/HackIndiaXYZ/vibe-coding-hackathon-2026-savitri-guardian/blob/main/WHY_SAVITRI.md]
+* HACKATHON_SUBMISSION.md [https://github.com/HackIndiaXYZ/vibe-coding-hackathon-2026-savitri-guardian/blob/main/HACKATHON_SUBMISSION.md]
+* PRODUCT_VISION.md [https://github.com/HackIndiaXYZ/vibe-coding-hackathon-2026-savitri-guardian/blob/main/PRODUCT_VISION.md]
+* DEMO_GUIDE.md [https://github.com/HackIndiaXYZ/vibe-coding-hackathon-2026-savitri-guardian/blob/main/DEMO_GUIDE.md]
+* MARKET_&_MONETIZATION.md [https://github.com/HackIndiaXYZ/vibe-coding-hackathon-2026-savitri-guardian/blob/main/MARKET_%26_MONETIZATION.md]
 
 ### Platform Principles
 
-* TRUST_AND_SAFETY.md
-* IDENTITY_PRINCIPLES.md
+* TRUST_AND_SAFETY.md [https://github.com/HackIndiaXYZ/vibe-coding-hackathon-2026-savitri-guardian/blob/main/TRUST_%26_SAFETY.md]
+* IDENTITY_PRINCIPLES.md [https://github.com/HackIndiaXYZ/vibe-coding-hackathon-2026-savitri-guardian/blob/main/IDENTITY_PRINCIPLES.md]
 * FAQ.md
 
 ### Technical
 
-* ARCHITECTURE.md 
+* ARCHITECTURE.md []
 
 ---
 
