@@ -168,11 +168,11 @@ Humans decide.
 
 * TRUST_AND_SAFETY.md [https://github.com/HackIndiaXYZ/vibe-coding-hackathon-2026-savitri-guardian/blob/main/TRUST_%26_SAFETY.md]
 * IDENTITY_PRINCIPLES.md [https://github.com/HackIndiaXYZ/vibe-coding-hackathon-2026-savitri-guardian/blob/main/IDENTITY_PRINCIPLES.md]
-* FAQ.md
+* FAQ.md [https://github.com/HackIndiaXYZ/vibe-coding-hackathon-2026-savitri-guardian/blob/main/FAQ.md]
 
 ### Technical
 
-* ARCHITECTURE.md []
+* ARCHITECTURE.md [https://github.com/HackIndiaXYZ/vibe-coding-hackathon-2026-savitri-guardian/blob/main/ARCHITECTURE.md]
 
 ---
 
